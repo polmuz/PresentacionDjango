@@ -1,0 +1,112 @@
+* Diapositiva en blanco
+
+* Python
+** Python, The Language
+*** imagen: http://www.flickr.com/photos/42311564@N00/2355590274/sizes/o/in/photostream/
+   - Creacion
+   - GvR
+   - ABC
+   - Pseudocodigo ejecutable
+** Caracteristicas
+*** imagen: http://www.flickr.com/photos/superfamous/3037573400/sizes/l/in/photostream/
+   - Interpretado (pero bytecode)
+   - Dinamicamente tipado, fuertemente tipado
+   - OO con toques funcionales
+   - Implemtentaciones
+** Algo de codigo
+*** imagen: 
+   - Whitespace
+   - funciones y clases
+** Cool stuff
+*** imagen: http://www.flickr.com/photos/brumd/3966328663/sizes/o/in/photostream/
+   - Virtualenv
+   - C Bindings
+** Comunidad
+*** imagen: http://www.flickr.com/photos/marinho/2880291766/sizes/l/in/photostream/
+   - Amplia
+   - Conferencias anuales en USA, Europa y muchas otras regiones
+   - PyAr, PyConAr, PyCamp, Cocos2D, CDPedia
+** Quien lo usa
+*** imagen: http://www.flickr.com/photos/89937132@N00/3811341189/
+   - Google
+   - Mozilla
+   - NASA
+   - CERN
+   - EVE Online
+   - Dropbox
+   - Ubuntu
+** Python y la web: http://www.flickr.com/photos/bitterbug/420934717/sizes/l/in/photostream/
+   - Muchos frameworks
+   - Herramientas solidas
+* Django
+** Django, The Framework
+*** imagen: http://upload.wikimedia.org/wikipedia/commons/archive/f/f5/20101107175251%21Django_Reinhardt_%28Gottlieb_07301%29.jpg
+   - Creacion
+   - Objetivo original
+   - Lawrence
+** I want my MTV
+*** imagen: http://www.myfreewallpapers.net/music/pages/mtv-idols.shtml
+   - MVCish
+   - Model, Template, View
+** Models & ORM
+*** imagen: http://www.flickr.com/photos/nickwheeleroz/2426442621/sizes/o/in/photostream/
+   - ActiveRecord
+   - Facil de usar
+   - Soporte para MySQL, PostgreSQL, sqlite3, Oracle (verificar)
+** Databases
+*** imagen: http://www.flickr.com/photos/jemimus/66531124/sizes/o/in/photostream/
+   - Master Slave
+   - Sharding?
+   - etc
+** Views
+*** imagen: http://www.flickr.com/photos/vickisnature/3232082494/sizes/l/in/photostream/
+   - actions
+   - mapeo a urls
+   - manejo de get/post
+** Templates
+*** imagen: http://www.flickr.com/photos/bubbo-tubbo/5459093172/sizes/o/in/photostream/
+   - Tags, if, for, custom
+   - Herencia
+   - Jinja2
+** Apps
+*** imagen: http://www.flickr.com/photos/kamalaboulhosn/2477434438/sizes/o/in/photostream/
+    - separacion de partes del proyecto
+    - reusables
+    - Pinax
+** Testing
+*** imagen: http://reddevnews.com/~/media/ECG/visualstudiomagazine/Images/2007/11/listingsID_148_0711_rdn_tb%20gif.ashx
+   - xUnit
+   - django testcase para requests
+** The Admin
+*** imagen: admin_croped.png
+   - autodiscover
+   - muy bueno en general
+   - Bastante customizable
+** Caching
+*** imagen: http://wallbase2.org/rozne/b4ae4873492c7245a066658f15fa1b22/wallpaper-6801.jpg
+   - View action
+   - Fragmentos
+   - ORM caching
+** Users
+*** image: logos
+   - Mozilla Add-ons
+   - Disqus
+   - Kind of GAE
+   - RestMock?
+* Django Tools
+** South
+*** imagen: http://www.flickr.com/photos/grantmac/3777910496/sizes/o/in/photostream/
+    - mostrar comandos?
+** Tastypie
+*** imagen: http://www.flickr.com/photos/cameronnordholm/1867004898/sizes/l/in/photostream/
+    - rest all verbs
+    - authentication
+    - authorization
+    - relations
+** django-debug-toolbar
+*** imagen: http://www.flickr.com/photos/_imax/3194682681/sizes/o/in/photostream/
+    - mostrar screenshots
+** Sentry
+*** imagen: http://www.flickr.com/photos/justaslice/1225410497/sizes/o/in/photostream/
+
+* Example
