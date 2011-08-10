@@ -69,12 +69,12 @@
    - Herencia
    - Jinja2
 ** Apps
-*** imagen: http://www.flickr.com/photos/kamalaboulhosn/2477434438/sizes/o/in/photostream/
+*** imagen: http://www.flickr.com/photos/tyello/4833534949/sizes/l/in/photostream/
     - separacion de partes del proyecto
     - reusables
     - Pinax
 ** Testing
-*** imagen: http://reddevnews.com/~/media/ECG/visualstudiomagazine/Images/2007/11/listingsID_148_0711_rdn_tb%20gif.ashx
+*** imagen: http://www.flickr.com/photos/batwrangler/2350353263/sizes/l/in/photostream/
    - xUnit
    - django testcase para requests
 ** The Admin
@@ -83,7 +83,7 @@
    - muy bueno en general
    - Bastante customizable
 ** Caching
-*** imagen: http://wallbase2.org/rozne/b4ae4873492c7245a066658f15fa1b22/wallpaper-6801.jpg
+*** imagen: http://wallbase.cc/wallpaper/6801
    - View action
    - Fragmentos
    - ORM caching
@@ -104,9 +104,9 @@
     - authorization
     - relations
 ** django-debug-toolbar
-*** imagen: http://www.flickr.com/photos/_imax/3194682681/sizes/o/in/photostream/
+*** imagen: http://www.flickr.com/photos/ebarney/3348965637/sizes/l/in/photostream/
     - mostrar screenshots
 ** Sentry
-*** imagen: http://www.flickr.com/photos/justaslice/1225410497/sizes/o/in/photostream/
+*** imagen: http://www.flickr.com/photos/lwr/5020027714/sizes/l/in/photostream/
 
 * Example
