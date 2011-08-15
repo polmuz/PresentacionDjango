@@ -21,6 +21,7 @@
 *** imagen: http://www.flickr.com/photos/brumd/3966328663/sizes/o/in/photostream/
    - Virtualenv
    - C Bindings
+   - Numpy
 ** Comunidad
 *** imagen: http://www.flickr.com/photos/marinho/2880291766/sizes/l/in/photostream/
    - Amplia
