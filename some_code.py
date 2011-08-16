@@ -23,6 +23,7 @@ class Circle(Shape):
 
     def __init__(self, x=0, y=0, r=0):
         self.r = r
+        super(Circle, self).__init__(x, y)
 
     def get_area(self):
         """ Calculate circle area """
